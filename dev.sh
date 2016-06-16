@@ -14,6 +14,8 @@ dev(){
 	fi
 }
 
+# tmux startup
+
 if [ -f ./tmux ]; then
 	if [ -n "${TMUX+x}" ]; then
 		dev
