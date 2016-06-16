@@ -6,6 +6,10 @@
 
 ``dev`` is made created for starting up development enviroments. 
 
+Integrations: 
+
+[Tmux](#tmux)
+
 ### tmux
 
 #### tmux integration
