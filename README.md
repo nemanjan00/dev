@@ -36,3 +36,16 @@ send "command2" C-m
 new-window
 send "command3" C-m
 ```
+
+## git
+
+git is set of aliases for faster git
+
+``add`` = ``git add``
+``commit`` = ``git commit``
+``push`` = ``git-push``
+``push-all`` = ``git remote | xargs -L1 git push --all``
+
+## Authors
+
+[Nemanja Nedeljković](https://github.com/nemanjan00)
