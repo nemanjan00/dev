@@ -2,25 +2,22 @@
 
 **dev** is set of my development aliases and bash functions + startup automations. 
 
-## ``dev`` function + startup automation
-
-``dev`` is made created for starting up development enviroments. 
-
 Integrations: 
 
-[Tmux](#tmux)
+* [tmux](#tmux)
+* [git](#git)
 
-### tmux
+## tmux
 
-#### tmux integration
+### tmux integration
 
 If there is ``tmux`` file in current dir, it will start tmux. 
 
-#### tmux startup automation
+### tmux startup automation
 
 If there is tmux file inside current directory, it will be sourced. 
 
-#### example tmux file
+### example tmux file
 
 ``` bash
 rename-session "Some session name"
