@@ -4,7 +4,7 @@
 
 Integrations: 
 
-* [dev function](#dev-function)
+* [dev](#dev-1)
 * [tmux](#tmux)
 * [git](#git)
 
