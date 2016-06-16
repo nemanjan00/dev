@@ -1,6 +1,6 @@
 # dev
 
-**dev** is ma development toolkit.  
+**dev** is my development toolkit.  
 
 Integrations: 
 
