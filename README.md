@@ -8,7 +8,7 @@ Integrations:
 * [tmux](#tmux)
 * [git](#git)
 
-## dev function
+## dev
 
 ``dev`` function is there for starting up development enviroments. 
 
