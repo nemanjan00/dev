@@ -8,9 +8,17 @@ Integrations:
 * [tmux](#tmux)
 * [git](#git)
 
+## dev function
+
+``dev`` function is there for starting up development enviroments. 
+
+Integrations: 
+
+* [tmux](#tmux-dev-function)
+
 ## tmux
 
-### tmux integration
+### tmux ``dev`` function
 
 If there is ``tmux`` file in current dir, it will start tmux. 
 
