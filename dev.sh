@@ -1,3 +1,5 @@
+# dev
+
 dev(){
 	if [ -f ./tmux ]; then
 		if [ -n "${TMUX+x}" ]; then
@@ -17,3 +19,10 @@ if [ -f ./tmux ]; then
 		dev
 	fi
 fi
+
+# git
+
+alias add="git add"
+alias commit="git commit"
+alias push="git push"
+alias push-all="git remote | xargs -L1 git push --all"
