@@ -1,9 +1,10 @@
 # dev
 
-**dev** is set of my development aliases and bash functions + startup automations. 
+**dev** is ma development toolkit.  
 
 Integrations: 
 
+* [dev function](#dev-function)
 * [tmux](#tmux)
 * [git](#git)
 
